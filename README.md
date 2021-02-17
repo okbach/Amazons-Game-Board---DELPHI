@@ -52,6 +52,9 @@ Simple linking method to play against an online friend based on IDHTTP component
 
 # I promise more detailed explanation and more clean code just need a little support
 
+Download the game link and more explanation --. https://play.google.com/store/apps/details?id=com.strdz.Amazons_Siege_ads&hl=en
+
+
 ![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Embarcadero%20Delphi%20213px.png?raw=true)
 # A powered by Delphi badge and a link to the Delphi product page 
 https://www.embarcadero.com/products/delphi
