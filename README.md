@@ -1,4 +1,4 @@
-(Delphi (white simple) 500px.png)
+![](Delphi (white simple) 500px.png)
 
 # Amazons-Game-Board--DELPHI
 AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" by Delphi
