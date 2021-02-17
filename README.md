@@ -4,7 +4,7 @@
 
 ![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Untitled-500--1024.png?raw=true)
 
-#Introduction
+# Introduction
 Amazons is a many-faceted game. The game set typically used to play Amazons is a draughts board of size 10 × 10,
 four white and four black chess queens (called amazons), and a supply of go pieces of one colour (called arrows). The
 starting position and a first move of white are shown in Fig. 1. A move consists of two steps: (1) the player chooses
