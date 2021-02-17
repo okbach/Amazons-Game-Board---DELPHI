@@ -38,7 +38,7 @@ A set of functions that may help you build any board game such as chess and goo
 # {PLAY ONLINE} 
 Simple linking method to play against an online friend based on IDHTTP component
 , Client destination, PHP file organizing engine and a little bit of HTML, JAVASC for chatting
-
+use file php,html--> assets/server_side
 
 # I promise more detailed explanation and more clean code just need a little support
 
