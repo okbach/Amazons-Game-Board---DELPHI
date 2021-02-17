@@ -1,11 +1,16 @@
-![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Untitled-500--1024.png?raw=true)
 ![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Delphi%20(white%20simple)%20500px.png?raw=true)
 
-# Amazons-Game-Board--DELPHI
-AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" by Delphi
 
 The Game of the Amazons is a two-player abstract strategy game invented in 1988 by Walter Zamkauskas of Argentina. It is a member of the territorial game family, a distant relative of Go and chess. El Juego de las Amazonas is a trademark of Ediciones de Mente. The Game of the Amazons is
 to win Confine the opponent in a narrow space
+
+![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Untitled-500--1024.png?raw=true)
+
+
+# Amazons-Game-Board--DELPHI
+AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" A powered by Delphi
+
+
 
 The source code is based on fmx
 It can run on most Android, Windows and iOS platforms ...
