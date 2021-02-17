@@ -1,4 +1,4 @@
-
+![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Untitled-500--1024.png?raw=true)
 ![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Delphi%20(white%20simple)%20500px.png?raw=true)
 
 # Amazons-Game-Board--DELPHI
