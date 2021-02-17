@@ -1,6 +1,6 @@
 # Amazons-Game-Board--DELPHI
 
-
+# Made by delphi 10.4
 
 ![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Untitled-500--1024.png?raw=true)
 
