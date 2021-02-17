@@ -9,7 +9,7 @@ to win Confine the opponent in a narrow space
 
 
 
-# AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" A powered by Delphi
+# AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" 
 
 The source code is based on fmx
 It can run on most Android, Windows and iOS platforms ...
