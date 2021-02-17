@@ -1,3 +1,4 @@
+# Amazons-Game-Board--DELPHI
 ![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Delphi%20(white%20simple)%20500px.png?raw=true)
 
 
@@ -7,16 +8,14 @@ to win Confine the opponent in a narrow space
 ![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Untitled-500--1024.png?raw=true)
 
 
-# Amazons-Game-Board--DELPHI
-AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" A powered by Delphi
 
-
+# AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" A powered by Delphi
 
 The source code is based on fmx
 It can run on most Android, Windows and iOS platforms ...
 tester {Android, Windows} 
 
-AI-BOT {minimax algorithm}
+# AI-BOT {minimax algorithm}
 Has a computer discount
 Artificial intelligence
 Minmax algorithm
@@ -24,17 +23,18 @@ Improved Alpha – beta pruning
 Simple heuristic function needs further improvement
 Each average player has a large number fork, so it is impossible to go over more than 3 depths
 
-Some visual and sound effects Like player transmission 
-Game rules and game engine are included in this file --> engineboard.pas
+Some visual and sound effects Like player transmission I USE GlowEffect 
+
+# Game rules and game engine are included in this file --> engineboard.pas
 {engineboard.pas}
 A set of functions that may help you build any board game such as chess and go
 
-{PLAY ONLINE} 
+#{PLAY ONLINE} 
 Simple linking method to play against an online friend based on IDHTTP component
 , Client destination, PHP file organizing engine and a little bit of HTML, JAVASC for chatting
 
 
-I promise more detailed explanation and more clean code just need a little support
+#I promise more detailed explanation and more clean code just need a little support
 
- A powered by Delphi badge and a link to the Delphi product page 
+# A powered by Delphi badge and a link to the Delphi product page 
 https://www.embarcadero.com/products/delphi
