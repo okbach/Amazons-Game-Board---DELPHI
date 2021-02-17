@@ -18,8 +18,7 @@ komi and if so, by how many points? We will discuss two possible komi rules in m
 I first heard about amazons at a workshop on combinatorial game theory at MSRI in July 2000. I was fascinated by
 the deepness and subtlety of ‘simple’ positions in amazons that have been analysed by Berlekamp [1], Snatzke [12,13],
 Müller and Tegos [11]. Inspired by discussions with Müller about his computer program ARROW and my experiences
-of playing amazons I started to write the computer program AMAZONG. AMAZONG has won the amazons tournaments
-at the seventh Computer Olympiad in Maastricht in 2002 and at the eighth Computer Olympiad in Graz in 2003.
+of playing amazons I started to write the computer program AMAZONG. 
 
 # AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" 
 
