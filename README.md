@@ -24,7 +24,7 @@ at the seventh Computer Olympiad in Maastricht in 2002 and at the eighth Compute
 # AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" 
 
 The source code is based on fmx
-It can run on most Android, Windows and iOS platforms ...
+It can run on most platforms {Android, Windows and iOS  ...}
 tester {Android, Windows} 
 
 # AI-BOT {minimax algorithm}
@@ -43,7 +43,7 @@ Some visual and sound effects Like player transmission I USE GlowEffect
 
 # Game rules and game engine are included in this file --> engineboard.pas
 {engineboard.pas}
-A set of functions that may help you build any board game such as chess and go
+A set of functions that may help you build any board game such as chess and goo
 
 #{PLAY ONLINE} 
 Simple linking method to play against an online friend based on IDHTTP component
