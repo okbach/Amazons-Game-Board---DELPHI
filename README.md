@@ -39,6 +39,7 @@ Each average player has a large number fork, so it is impossible to go over more
 And heuristic function
 It adds a point for each step the player can move to
 
+# Effect steps
 Some visual and sound effects Like player transmission I USE GlowEffect 
 
 # Game rules and game engine are included in this file --> engineboard.pas
