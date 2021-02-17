@@ -1,0 +1,3 @@
+.\assets\internal\edit memo
+.\assets\internal\piece_place2.wav
+.\assets\internal\piece_pickup2.wav
