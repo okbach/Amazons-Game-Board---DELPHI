@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 0 20px;
+}
+
+.container {
+  border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.darker {
+  border-color: #ccc;
+  background-color: #ddd;
+}
+
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.container img {
+  float: left;
+  max-width: 60px;
+  width: 100%;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.container img.right {
+  float: right;
+  margin-left: 20px;
+  margin-right:0;
+}
+
+.time-right {
+  float: right;
+  color: #aaa;
+}
+
+.time-left {
+  float: left;
+  color: #999;
+}
+</style>
+</head>
+<body>
+
+<h2>Chat Messages</h2>
+
+<div id="listmsg">
+<!--<div class="container">
+  <img src="/w3images/bandmember.jpg" alt="Avatar" style="width:100%;">
+  <span class="time-right">11:00</span>
+</div>-->
+
+
+
+</div>
+
+
+<input type="hidden" id="user" name="user" value=""> 
+<input type="hidden" id="enmy" name="enmy" value=""> 
+<input type="hidden" id="session" name="session" value=""> 
+<input type="hidden" id="num" name="num" value=0> 
+<input type="hidden" id="numget" name="numget" value=0> 
+
+    <label class="w3-text-brown"><b>msg...</b></label>
+    <textarea class="w3-input w3-border" name="msg" id="msg" style="resize:none"></textarea>
+    <button class="w3-btn w3-brown" onclick="sendmsg()">send</button>
+
+
+
+<script>
+
+function rname(aname,bname) {
+document.getElementById("user").value = aname ;
+document.getElementById("enmy").value = bname ;
+}
+function sesion_name(session) {
+document.getElementById("session").value = session ;
+
+}
+
+    function sendmsg() {
+      
+     var  msg =  document.getElementById("msg").value ;
+     
+     var user = document.getElementById("user").value ;
+
+     var session = document.getElementById("session").value ;
+
+     var num = document.getElementById("num").value ;
+     document.getElementById("msg").value ='' ;
+     if (msg.length > 0) {
+
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            
+
+           newElement = ' <div class="container">   <p>'+msg+'</p>   <span class="time-right">11:00</span> </div> ';
+           document.getElementById('listmsg').innerHTML += newElement;
+        
+           var x = parseInt(document.getElementById("num").value) + 1 ;
+        document.getElementById("num").value=x;
+        
+        
+        }
+        }
+        xmlhttp.open("GET", "http://wifidj.aba.vg/chat_game.php?state=insert&msg="+msg+"&user="+user+"&session="+session+"&num="+num, true);
+        xmlhttp.send();
+
+      }
+    }
+//---------------------------------------------------------------------------------------------
+function getmsg() {
+     var  msg =  document.getElementById("msg").value ;
+     
+     var user = document.getElementById("user").value ;
+
+     var enmy = document.getElementById("enmy").value ;
+
+     var session = document.getElementById("session").value ;
+
+     var numget = document.getElementById("numget").value ;
+     
+
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+           
+            var str = this.responseText;
+            if ( (str.length > 0 ) ) {
+            var res = str.split("~");
+             
+          newElement = ' <div class="container darker">   <p>'+res[1]+'</p>   <span class="time-left">'+res[2]+'</span> </div> ';
+
+          document.getElementById('listmsg').innerHTML += newElement;  
+           var xx = parseInt(document.getElementById("numget").value) + 1 ;
+            document.getElementById("numget").value=xx;
+            }
+        
+        
+        }
+        }
+        
+        xmlhttp.open("GET", "http://wifidj.aba.vg/chat_game.php?state=get&user="+enmy+"&session="+session+"&num="+numget, true);
+        xmlhttp.send();
+
+    
+    }
+
+
+
+
+    window.setInterval(function(){
+      
+  /// call your function here
+  getmsg();
+}, 7000);
+
+
+
+
+    </script>
+
+
+</body>
+</html>
