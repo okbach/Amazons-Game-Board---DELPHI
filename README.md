@@ -35,7 +35,7 @@ Some visual and sound effects Like player transmission I USE GlowEffect
 {engineboard.pas}
 A set of functions that may help you build any board game such as chess and goo
 
-# {PLAY ONLINE} 
+# PLAY ONLINE
 Simple linking method to play against an online friend based on IDHTTP component
 , Client destination, PHP file organizing engine and a little bit of HTML, JAVASC for chatting
 use file php,html--> assets/server_side
