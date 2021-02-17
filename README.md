@@ -45,12 +45,12 @@ Some visual and sound effects Like player transmission I USE GlowEffect
 {engineboard.pas}
 A set of functions that may help you build any board game such as chess and goo
 
-#{PLAY ONLINE} 
+# {PLAY ONLINE} 
 Simple linking method to play against an online friend based on IDHTTP component
 , Client destination, PHP file organizing engine and a little bit of HTML, JAVASC for chatting
 
 
-#I promise more detailed explanation and more clean code just need a little support
+# I promise more detailed explanation and more clean code just need a little support
 
 ![](https://github.com/okbach/Amazons-Game-Board---DELPHI/blob/main/Embarcadero%20Delphi%20213px.png?raw=true)
 # A powered by Delphi badge and a link to the Delphi product page 
