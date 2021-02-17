@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/12 15:27:56.000.190,=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/12 15:34:11.000.587,=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/01/12 15:34:27.000.130,=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/01/12 15:35:01.000.224,C:\Users\nedjma\Desktop\game 2021 board\Unit1.fmx=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/01/12 15:35:01.000.224,C:\Users\nedjma\Desktop\game 2021 board\Unit1.pas=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/12 15:35:02.000.249,C:\Users\nedjma\Desktop\game 2021 board\Unit3.fmx=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>2021/01/12 15:35:02.000.249,C:\Users\nedjma\Desktop\game 2021 board\Unit3.pas=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/01/12 15:35:03.000.148,C:\Users\nedjma\Desktop\game 2021 board\Unit2.fmx=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2021/01/12 15:35:03.000.148,C:\Users\nedjma\Desktop\game 2021 board\Unit2.pas=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/01/12 15:35:04.000.171,C:\Users\nedjma\Desktop\game 2021 board\Project1.dproj=C:\Users\nedjma\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/18 00:51:48.000.485,=C:\Users\nedjma\Desktop\game 2021 board\Inkfree.ttf</Transaction>
+    <Transaction>2021/01/18 00:51:48.000.480,=C:\Users\nedjma\Desktop\game 2021 board\Ink free.ttf</Transaction>
+    <Transaction>2021/01/18 00:51:58.000.639,C:\Users\nedjma\Desktop\game 2021 board\Ink free.ttf=</Transaction>
+    <Transaction>2021/01/18 00:51:58.000.618,C:\Users\nedjma\Desktop\game 2021 board\Inkfree.ttf=</Transaction>
+    <Transaction>2021/01/18 00:52:29.000.926,=C:\Users\nedjma\Desktop\game 2021 board\Ink free.ttf</Transaction>
+    <Transaction>2021/01/18 00:52:29.000.932,=C:\Users\nedjma\Desktop\game 2021 board\Inkfree.ttf</Transaction>
+    <Transaction>2021/01/18 00:52:45.000.802,C:\Users\nedjma\Desktop\game 2021 board\Ink free.ttf=</Transaction>
+    <Transaction>2021/01/18 00:53:29.000.568,=C:\Users\nedjma\Desktop\game 2021 board\Ink free.ttf</Transaction>
+    <Transaction>2021/01/18 00:53:47.000.106,C:\Users\nedjma\Desktop\game 2021 board\Ink free.ttf=</Transaction>
+    <Transaction>2021/01/18 00:55:42.000.242,C:\Users\nedjma\Desktop\game 2021 board\Inkfree.ttf=</Transaction>
+    <Transaction>2021/01/18 00:55:42.000.249,=C:\Users\nedjma\Desktop\game 2021 board\Ink free.ttf</Transaction>
+    <Transaction>2021/01/18 02:00:29.000.261,=C:\Users\nedjma\Desktop\game 2021 board\Inkfree Regular.ttf</Transaction>
+    <Transaction>2021/01/18 02:00:29.000.254,=C:\Users\nedjma\Desktop\game 2021 board\Ink free Regular.ttf</Transaction>
+    <Transaction>2021/01/18 02:00:29.000.278,=C:\Users\nedjma\Desktop\game 2021 board\InkFreeRegular .ttf</Transaction>
+    <Transaction>2021/01/18 02:00:29.000.269,=C:\Users\nedjma\Desktop\game 2021 board\Inkfree.ttf</Transaction>
+    <Transaction>2021/01/21 12:13:52.000.849,=C:\Users\nedjma\Desktop\game 2021 board - idhtttp\buttons.mp3</Transaction>
+    <Transaction>2021/01/21 12:13:52.000.874,=C:\Users\nedjma\Desktop\game 2021 board - idhtttp\select.ogg</Transaction>
+    <Transaction>2021/01/21 12:55:02.000.976,=C:\Users\nedjma\Desktop\game 2021 board - idhtttp\end.wav</Transaction>
+    <Transaction>2021/01/21 13:57:02.000.840,=C:\Users\nedjma\Desktop\game 2021 board - idhtttp\sondd\piece_pickup2.wav</Transaction>
+    <Transaction>2021/01/21 13:57:02.000.814,C:\Users\nedjma\Desktop\game 2021 board - idhtttp\buttons.mp3=</Transaction>
+    <Transaction>2021/01/21 13:57:02.000.804,C:\Users\nedjma\Desktop\game 2021 board - idhtttp\select.ogg=</Transaction>
+    <Transaction>2021/01/21 13:57:02.000.855,=C:\Users\nedjma\Desktop\game 2021 board - idhtttp\sondd\piece_place2.wav</Transaction>
+    <Transaction>2021/01/21 13:57:02.000.791,C:\Users\nedjma\Desktop\game 2021 board - idhtttp\end.wav=</Transaction>
+    <Transaction>2021/01/22 13:05:31.000.208,=C:\Users\nedjma\Desktop\game 2021 board - idhtttp\sondd\wav\piece_place2.wav</Transaction>
+    <Transaction>2021/01/22 13:05:31.000.125,C:\Users\nedjma\Desktop\game 2021 board - idhtttp\sondd\piece_pickup2.wav=</Transaction>
+    <Transaction>2021/01/22 13:05:31.000.092,C:\Users\nedjma\Desktop\game 2021 board - idhtttp\sondd\piece_place2.wav=</Transaction>
+    <Transaction>2021/01/22 13:05:31.000.180,=C:\Users\nedjma\Desktop\game 2021 board - idhtttp\sondd\wav\piece_pickup2.wav</Transaction>
+    <Transaction>2021/01/23 23:22:29.000.645,=C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat 4\edit memo</Transaction>
+    <Transaction>2021/01/28 01:11:52.000.457,C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 6\Inkfree.ttf=</Transaction>
+    <Transaction>2021/01/28 09:05:15.000.287,=C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 6\Inkfree.ttf</Transaction>
+    <Transaction>2021/01/28 09:10:07.000.945,C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 6\Inkfree.ttf=</Transaction>
+    <Transaction>2021/02/09 02:38:17.000.048,C:\Users\nedjma\Desktop\board game 2021 amazons\Project1.dproj=C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 7 eraly end game\Project1.dproj</Transaction>
+    <Transaction>2021/02/09 02:38:32.000.394,C:\Users\nedjma\Desktop\board game 2021 amazons\Unit1.fmx=C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 7 eraly end game\Unit1.fmx</Transaction>
+    <Transaction>2021/02/09 02:38:32.000.394,C:\Users\nedjma\Desktop\board game 2021 amazons\Unit1.pas=C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 7 eraly end game\Unit1.pas</Transaction>
+    <Transaction>2021/02/09 02:38:44.000.297,C:\Users\nedjma\Desktop\board game 2021 amazons\Unit2.fmx=C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 7 eraly end game\Unit2.fmx</Transaction>
+    <Transaction>2021/02/09 02:38:44.000.297,C:\Users\nedjma\Desktop\board game 2021 amazons\Unit2.pas=C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 7 eraly end game\Unit2.pas</Transaction>
+    <Transaction>2021/02/09 02:38:58.000.119,C:\Users\nedjma\Desktop\board game 2021 amazons\Unit3.fmx=C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 7 eraly end game\Unit3.fmx</Transaction>
+    <Transaction>2021/02/09 02:38:58.000.119,C:\Users\nedjma\Desktop\board game 2021 amazons\Unit3.pas=C:\Users\nedjma\Desktop\game board 2021\game 2021 board - idhtttp - chat webbrowser 7 eraly end game\Unit3.pas</Transaction>
+    <Transaction>2021/02/16 22:51:06.642,=C:\Users\nedjma\Desktop\board game 2021 amazons - minmax\Unit4.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64=""/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
