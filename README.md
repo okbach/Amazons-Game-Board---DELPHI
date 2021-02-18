@@ -12,34 +12,34 @@ channel : Numberphile Topics about msri mathematics ...
 
 # AI bot &amp; the player &amp; Online &amp; Offline board game "Game of the Amazons" 
 
-The source code is based on fmx
-It can run on most platforms {Android, Windows and iOS  ...}
-tester {Android, Windows} 
+- This is FMX project it can run on almost os:
+  Windows,Linux ... etc and on Phones: Android,IOS ...etc
+- Tested in: Windows and Android
 
 # AI-BOT {minimax algorithm}
-Has a computer discount
-Artificial intelligence
-Minmax algorithm
-Improved Alpha – beta pruning
-Simple heuristic function needs further improvement
-Each average player has a large number fork, so it is impossible to go over more than 3 depths
+- Play against friends or Bots(AI).
+- The Bots are using improved Alpha-beta-burning algorithm to find next move and simple heuristic function.
+- Each game has massive number of odds so the max depth is 3.
 
 # heuristic
 And heuristic function
 It adds a point for each step the player can move to
 
 # Effect steps
-Some visual and sound effects Like player transmission I USE GlowEffect 
+- Some visual and sound effects Like player transmission.
+- GlowEffect has been used in this project 
 
-# Game rules and game engine are included in this file --> engineboard.pas
-{engineboard.pas}
-A set of functions that may help you build any board game such as chess and goo
+# Simple Board Game Engine
+- This game designed by simple game engine builded by me and included in engineboard.pas
+- engineboard.pas include set of functions that may help you build any board game ex: chess,go ...
 
 # PLAY ONLINE
-Simple linking method to play against an online friend based on IDHTTP component
-, Client destination, PHP file organizing engine and a little bit of HTML, JAVASC for chatting
-use file php,html--> assets/server_side
-
+- Simple active Server to play online against friends or random people
+    - This method is based on:
+      - IDHTTP component
+      - Client destination
+      - PHP file organizing engine
+      - HTML,JS for chatting see assets/server_side file
 # I promise more detailed explanation and more clean code just need a little support
 
 Download the game link and more explanation --> https://play.google.com/store/apps/details?id=com.strdz.Amazons_Siege_ads&hl=en
