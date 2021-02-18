@@ -25,7 +25,7 @@ channel : Numberphile Topics about msri mathematics ...
 And heuristic function
 It adds a point for each step the player can move to
 
-# Effect steps
+# Effects
 - Some visual and sound effects Like player transmission.
 - GlowEffect has been used in this project 
 
